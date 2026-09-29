@@ -104,8 +104,8 @@
     "ko": "캐릭터 · 의상"
    },
    "featured": true,
-   "cover": "/assets/hwarot-00.webp",
-   "hero": "/assets/hwarot-00.webp",
+   "cover": "/assets/hwarot-00.png",
+   "hero": "/assets/hwarot-00.png",
    "summary": {
     "en": "A digital self-portrait in a traditional Korean bridal robe. I created the character, layered costume, accessories and hair, studying the way embroidered silk holds its shape and responds to light.",
     "ko": "전통 혼례복인 활옷을 입은 디지털 자화상입니다. 얼굴 스컬핑부터 겹겹의 의상, 장신구와 그루밍까지 제작하며 자수가 놓인 비단의 형태와 빛에 반응하는 재질을 연구했습니다."
@@ -121,21 +121,21 @@
    },
    "gallery": [
     {
-     "src": "/assets/hwarot-01.webp",
+     "src": "/assets/hwarot-01.png",
      "caption": {
       "en": "Portrait — three-quarter view",
       "ko": "포트레이트 — 3/4 뷰"
      }
     },
     {
-     "src": "/assets/hwarot-02.webp",
+     "src": "/assets/hwarot-02.png",
      "caption": {
       "en": "Portrait — facial detail",
       "ko": "포트레이트 — 얼굴 디테일"
      }
     },
     {
-     "src": "/assets/hwarot-03.webp",
+     "src": "/assets/hwarot-03.png",
      "caption": {
       "en": "Costume — embroidery and ornaments",
       "ko": "의상 — 자수와 장신구 디테일"
@@ -485,19 +485,19 @@
       942,
       628
     ],
-    "/assets/hwarot-00.webp": [
+    "/assets/hwarot-00.png": [
       2048,
       1638
     ],
-    "/assets/hwarot-01.webp": [
+    "/assets/hwarot-01.png": [
       2048,
-      1536
+      1620
     ],
-    "/assets/hwarot-02.webp": [
+    "/assets/hwarot-02.png": [
       2048,
-      1152
+      1155
     ],
-    "/assets/hwarot-03.webp": [
+    "/assets/hwarot-03.png": [
       2048,
       1152
     ],
